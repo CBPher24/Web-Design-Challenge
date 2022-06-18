@@ -1,6 +1,17 @@
-/* nav {
+nav {
     text-align: left;
     background-color: #FF8000;
     color: black;
     font: 400;
-} */
+}
+
+/* The side navigation menu */
+.sidebar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    position: relative;
+    height: 100%;
+    overflow: auto;
+  }
