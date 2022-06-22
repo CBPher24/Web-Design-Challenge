@@ -1,4 +1,4 @@
-nav {
+.nav {
     text-align: left;
     background-color: #FF8000;
     color: black;
@@ -14,4 +14,10 @@ nav {
     position: relative;
     height: 100%;
     overflow: auto;
+  }
+
+  .img-adj {
+    width: 100%;
+    height: auto;
+    max-width: none;
   }
