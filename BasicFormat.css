@@ -13,7 +13,7 @@ nav {
   z-index: 1; 
   top: 0; 
   right: 0;
-  background-color: rgb(221, 142, 67); /* Black */
+  background-color: orange; /* Black */
   overflow-x: hidden; 
   padding-top: 20px;
 }
@@ -29,5 +29,6 @@ background-color: black;
 }
 
 p {
-  color: #FF8000;
+  color: orange;
+  word-wrap: break-word;
 }
